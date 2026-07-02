@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dependency directories
 node_modules/
 
@@ -14,12 +15,36 @@ dist/
 # IDE configs
 .vscode/
 .idea/
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+>>>>>>> a3be34523603327fffc6c0be2b251ea448a877a5
 *.suo
 *.ntvs*
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 # OS systems
 Thumbs.db
 .DS_Store
+=======
+>>>>>>> a3be34523603327fffc6c0be2b251ea448a877a5

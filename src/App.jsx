@@ -205,7 +205,10 @@ export default function App() {
               <path d="M12 20h9M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z" />
             </svg>
             Solve With Jimmy
+<<<<<<< HEAD
             <span style={{ fontSize: '0.65rem', background: 'rgba(245, 158, 11, 0.15)', color: '#fbbf24', padding: '2px 6px', borderRadius: '4px', marginLeft: '8px', fontWeight: 600, display: 'inline-block' }}>Soon</span>
+=======
+>>>>>>> a3be34523603327fffc6c0be2b251ea448a877a5
           </button>
 
           <button 
@@ -298,7 +301,10 @@ export default function App() {
         {activeView === 'solve' && (
           <SolveTogether 
             currentUser={currentUser}
+<<<<<<< HEAD
             onNavigate={handleNavigate}
+=======
+>>>>>>> a3be34523603327fffc6c0be2b251ea448a877a5
           />
         )}
         

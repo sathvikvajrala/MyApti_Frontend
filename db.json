@@ -1,0 +1,42 @@
+{
+  "history": {
+    "guest": [],
+    "admin": [
+      {
+        "id": 1782886724892,
+        "date": "Jul 1, 11:48 AM",
+        "category": "logical",
+        "totalQuestions": 5,
+        "correctAnswers": 2,
+        "scorePercent": 40,
+        "timeSpentSeconds": 62
+      }
+    ],
+    "Sathvik": [],
+    "vajrala": []
+  },
+  "progress": {
+    "guest": [],
+    "admin": [],
+    "Sathvik": [],
+    "vajrala": []
+  },
+  "users": {
+    "admin": {
+      "password": "Sathvik31@",
+      "email": "sathvikvajrala@gmail.com",
+      "solve_context": [
+        "kjhkj",
+        "PDF Document: Vajrala_Sathvik_Reddy__Resume.pdf content. (Extracted PDF metadata details)"
+      ]
+    },
+    "Sathvik": {
+      "password": "Sathvik31@",
+      "email": "www.vajralasathvikreddy3131@gmail.com"
+    },
+    "vajrala": {
+      "password": "Sathvik31@",
+      "email": "sathvikvajrala31@gmail.com"
+    }
+  }
+}
